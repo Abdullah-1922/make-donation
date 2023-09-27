@@ -23,6 +23,12 @@ const CardDetails = () => {
     if (!donatedData) {
       addDonated.push(Card);
       localStorage.setItem('donated', JSON.stringify(addDonated));
+      {Swal.fire(
+        'Good job!',
+        'You clicked the button!',
+        'success'
+      )
+      }
       
      
     } else {

@@ -1,8 +1,9 @@
-import { Link } from "react-router-dom";
+/* eslint-disable react/prop-types */
+
 
 const DonationSingle = ({donate}) => {
     console.log(donate);
-    const {id,img,category ,name ,text ,bg,btnBg,donationAmount
+    const {img,category ,name ,text ,bg,btnBg,donationAmount
     }=donate
     return (
         <div >
@@ -11,7 +12,7 @@ const DonationSingle = ({donate}) => {
                 backgroundColor:`${bg}`, 
                 
               }}
-            className="relative flex flex-col w-full max-w-[48rem] md:flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+            className="relative flex  w-full max-w-[48rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
     
     <img
@@ -33,8 +34,14 @@ const DonationSingle = ({donate}) => {
   }}
   className="w-fit p-1 px-3 font-semibold rounded-lg"
     >{category}</h3>
-    <h2>{name}</h2>
-    <p>${donationAmount}.00</p>
+    <h2 className="text-2xl font-bold py-2">{name}</h2>
+    <p 
+    style={{
+        color:`${text}`, 
+        
+      }}
+      className="text-lg font-medium py-1 mb-3"
+    >${donationAmount}.00</p>
     <button
     style={{
         backgroundColor:`${text}`, 
