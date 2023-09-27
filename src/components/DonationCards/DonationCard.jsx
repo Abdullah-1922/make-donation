@@ -1,7 +1,15 @@
+import { Link } from "react-router-dom";
+
+
+/* eslint-disable react/prop-types */
 const DonationCard = ({ card }) => {
-  const { img, category, name } = card;
+  const { img, category, name ,id} = card;
+
+  
+
   return (
-    <div className='card  bg-base-100 shadow-xl'>
+    <Link to={`/details/${id}`}>
+    <div  className='card  bg-base-100 shadow-xl'>
       <figure>
         <img
         className="h-[250px] w-full"
@@ -9,14 +17,14 @@ const DonationCard = ({ card }) => {
           alt='Shoes'
         />
       </figure>
-      <div className='card-body'>
-        <h2 className='text-xl p-2 font-semibold'>{category}</h2>
-        <p>If a dog chews shoes whose shoes does he choose?</p>
+      <div className='p-3'>
+        <h2 className=' px-2 mt-4 font-semibold'>{category}</h2>
+        <p className="text-xl px-2 font-bold">{name}</p>
         <div className='card-actions justify-end'>
-          <button className='btn btn-primary'>Buy Now</button>
         </div>
       </div>
     </div>
+    </Link>
   );
 };
 
