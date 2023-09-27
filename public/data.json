@@ -6,7 +6,12 @@
         "name": "Medical Supplies",
         "img": "https://i.ibb.co/5BDv36f/medical-1.jpg",
         "donationAmount": 50,
-        "description": "Make a meaningful impact by helping provide essential medical supplies to those in need. Your support ensures access to critical resources like medicines, bandages, and medical equipment, contributing to better healthcare and saving lives."
+        "description": "Make a meaningful impact by helping provide essential medical supplies to those in need. Your support ensures access to critical resources like medicines, bandages, and medical equipment, contributing to better healthcare and saving lives.",
+
+        "bg": "#0052ff26",
+        "btnBg":"#0052ff33",
+        "text": "#0052FF"
+
       },
       {
         "id": 2,
@@ -14,7 +19,10 @@
         "name": "School Supplies",
         "img": "https://i.ibb.co/1r82dp3/Education-2.jpg",
         "donationAmount": 30,
-        "description": "Empower the next generation by supporting children's education. Your donation helps supply them with the necessary tools, including books, notebooks, and stationery, enabling them to excel in their studies and achieve a brighter future."
+        "description": "Empower the next generation by supporting children's education. Your donation helps supply them with the necessary tools, including books, notebooks, and stationery, enabling them to excel in their studies and achieve a brighter future.",
+        "bg": "#ff444a26",
+        "btnBg":"#ff444a33",
+        "text": "#FF444A"
       },
       {
         "id": 3,
@@ -22,7 +30,10 @@
         "name": "Warm Clothing",
         "img": "https://i.ibb.co/TcvS5X6/cloth-3.jpg",
         "donationAmount": 40,
-        "description": "Make a difference in the lives of those facing harsh winters. Your contribution provides warm clothing items like coats, gloves, and scarves, ensuring that individuals stay warm and safe during cold weather, bringing comfort and relief."
+        "description": "Make a difference in the lives of those facing harsh winters. Your contribution provides warm clothing items like coats, gloves, and scarves, ensuring that individuals stay warm and safe during cold weather, bringing comfort and relief.",
+        "bg": "#79c23f26",
+        "btnBg":"#79c23f33",
+        "text": "#79C23F"
       },
       {
         "id": 4,
@@ -30,7 +41,10 @@
         "name": "Meal Donations",
         "img": "https://i.ibb.co/K5tg94G/food-4.jpg",
         "donationAmount": 20,
-        "description": "Join us in the fight against hunger by contributing to meal donations. Your support helps provide nutritious meals to the hungry and homeless, offering them hope, nourishment, and a chance for a better tomorrow."
+        "description": "Join us in the fight against hunger by contributing to meal donations. Your support helps provide nutritious meals to the hungry and homeless, offering them hope, nourishment, and a chance for a better tomorrow.",
+        "bg": "#f8714726",
+        "btnBg":"#f8714733",
+        "text": "#F87147"
       },
       {
         "id": 5,
@@ -38,7 +52,12 @@
         "name": "Healthcare Access",
         "img": "https://i.ibb.co/DKRt9qR/madical-5.jpg",
         "donationAmount": 100,
-        "description": "Promote better healthcare for all by supporting access to quality healthcare services for underserved communities. Your donation makes a significant impact on improving health outcomes and ensuring that everyone receives the care they deserve."
+        "description": "Promote better healthcare for all by supporting access to quality healthcare services for underserved communities. Your donation makes a significant impact on improving health outcomes and ensuring that everyone receives the care they deserve.",
+         
+        "bg": "#0052ff26",
+        "btnBg":"#0052ff33",
+        "text": "#0052FF"
+
       },
       {
         "id": 6,
@@ -46,7 +65,10 @@
         "name": "Scholarships",
         "img": "https://i.ibb.co/dm6871f/Education-6.jpg",
         "donationAmount": 200,
-        "description": "Transform lives through education by providing scholarships to deserving students. Your contribution empowers them to pursue their dreams, access higher education, and become future leaders, creating a brighter world for all."
+        "description": "Transform lives through education by providing scholarships to deserving students. Your contribution empowers them to pursue their dreams, access higher education, and become future leaders, creating a brighter world for all.",
+        "bg": "#ff444a26",
+        "btnBg":"#ff444a33",
+        "text": "#FF444A"
       },
       {
         "id": 7,
@@ -54,7 +76,10 @@
         "name": "Work Attire",
         "img": "https://i.ibb.co/xJ4CvKz/cloth-7.jpg",
         "donationAmount": 60,
-        "description": "Help job seekers overcome barriers by supporting them with appropriate work attire for interviews and employment. Your contribution boosts their confidence, self-esteem, and chances of securing a job, providing them with a path to financial independence."
+        "description": "Help job seekers overcome barriers by supporting them with appropriate work attire for interviews and employment. Your contribution boosts their confidence, self-esteem, and chances of securing a job, providing them with a path to financial independence.",
+        "bg": "#79c23f26",
+        "btnBg":"#79c23f33",
+        "text": "#79C23F"
       },
       {
         "id": 8,
@@ -62,7 +87,10 @@
         "name": "Food Banks",
         "img": "https://i.ibb.co/J51zM8J/food-8.jpg",
         "donationAmount": 50,
-        "description": "Fight hunger and food insecurity by supporting food banks that distribute essential food items to those in need. Your donation ensures that families have access to nutritious meals, helping build stronger, more resilient communities."
+        "description": "Fight hunger and food insecurity by supporting food banks that distribute essential food items to those in need. Your donation ensures that families have access to nutritious meals, helping build stronger, more resilient communities.",
+        "bg": "#f8714726",
+        "btnBg":"#f8714733",
+        "text": "#F87147"
       },
       {
         "id": 9,
@@ -70,7 +98,12 @@
         "name": "Medical Treatment",
         "img": "https://i.ibb.co/ryXJ57G/madical-9.jpg",
         "donationAmount": 75,
-        "description": "Save lives and improve health outcomes by providing critical medical treatment and care to individuals who lack access to healthcare services. Your support brings hope and healing to those facing health challenges."
+        "description": "Save lives and improve health outcomes by providing critical medical treatment and care to individuals who lack access to healthcare services. Your support brings hope and healing to those facing health challenges.",
+         
+        "bg": "#0052ff26",
+        "btnBg":"#0052ff33",
+        "text": "#0052FF"
+
       },
       {
         "id": 10,
@@ -78,7 +111,10 @@
         "name": "School Construction",
         "img": "https://i.ibb.co/P4r5Mqr/Education-10.jpg",
         "donationAmount": 40,
-        "description": "Empower communities through education by contributing to the construction and equipping of schools in underserved areas. Your donation helps create a safe and conducive learning environment for children, enabling them to reach their full potential."
+        "description": "Empower communities through education by contributing to the construction and equipping of schools in under served areas. Your donation helps create a safe and conducive learning environment for children, enabling them to reach their full potential.",
+        "bg": "#ff444a26",
+        "btnBg":"#ff444a33",
+        "text": "#FF444A"
       },
       {
         "id": 11,
@@ -86,7 +122,10 @@
         "name": "Disaster Relief",
         "img": "https://i.ibb.co/10YkdFm/cloth-11.jpg",
         "donationAmount": 35,
-        "description": "Lend a helping hand during times of crisis by supporting disaster relief efforts. Your contribution provides clothing and essential supplies to those affected by natural disasters, offering comfort and relief in their time of need."
+        "description": "Lend a helping hand during times of crisis by supporting disaster relief efforts. Your contribution provides clothing and essential supplies to those affected by natural disasters, offering comfort and relief in their time of need.",
+        "bg": "#79c23f26",
+        "btnBg":"#79c23f33",
+        "text": "#79C23F"
       },
       {
         "id": 12,
@@ -94,7 +133,10 @@
         "name": "Community Gardens",
         "img": "https://i.ibb.co/RbxFbgr/food-12.jpg",
         "donationAmount": 30,
-        "description": "Promote food sustainability and food security by supporting community gardens that grow fresh produce for families and communities. Your donation helps ensure access to healthy, locally grown food, fostering stronger and more resilient communities."
+        "description": "Promote food sustainability and food security by supporting community gardens that grow fresh produce for families and communities. Your donation helps ensure access to healthy, locally grown food, fostering stronger and more resilient communities.",
+        "bg": "#f8714726",
+        "btnBg":"#f8714733",
+        "text": "#F87147"
       }
     ]
   }
