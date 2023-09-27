@@ -8,7 +8,7 @@ console.log(totalDonation);
 
     const data = [
         { title: 'One', value:12 , color: '#E38627' },
-        { title: 'Two', value: 19, color: '#C13C37' },
+        { title: 'Two', value:10, color: '#C13C37' },
        
       ];
     
